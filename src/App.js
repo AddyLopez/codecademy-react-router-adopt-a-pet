@@ -13,7 +13,9 @@ import {
 } from "react-router-dom";
 
 // create router with JSX Route elements
-const appRouter = <Route path="/" element={<Root />}></Route>;
+const appRouter = createRoutesFromElements(
+  <Route path="/" element={<Root />}></Route>
+);
 
 function App() {
   return <RouterProvider router={appRouter} />;
