@@ -2,8 +2,7 @@ import React, { useEffect, useState } from "react";
 import { getPets } from "../../api/petfinder";
 import Hero from "../../components/hero";
 
-import { useParams } from "react-router-dom";
-// import Link
+import { Link, useParams } from "react-router-dom";
 
 const HomePage = () => {
   const [data, setData] = useState(null);
