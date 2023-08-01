@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { getPetDetails } from "../../api/petfinder";
 import Hero from "../../components/hero";
 
-// Import useParams
+import { useParams } from "react-router-dom";
 // Import Navigate
 
 const PetDetailsPage = () => {
