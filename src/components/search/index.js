@@ -1,11 +1,10 @@
 import React, { useRef } from "react";
 // Import createSearchParams
 
-import { useNavigate } from "react-router-dom";
+import { createSearchParams, useNavigate } from "react-router-dom";
 
 const Search = () => {
-  // get navigate function
-  const navigate = "REPLACE ME";
+  const navigate = useNavigate();
 
   const searchInputRef = useRef();
 
