@@ -6,7 +6,7 @@ const PetDetailsNotFound = () => {
   const navigate = useNavigate();
 
   const goHome = () => {
-    // Go home!
+    navigate("/");
   };
 
   return (
