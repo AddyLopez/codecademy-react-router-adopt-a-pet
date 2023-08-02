@@ -25,6 +25,7 @@ According to the assignment, I was to "add client-side routing to the applicatio
 - Active CSS styling added to Links
 - Implementation of a search feature using Reach Router so that when a user searches for a particular pet, the app redirects them to a page showing all pets whose names match the search query
 - Implementation of a feature that redirects the user to a "Pet Details Not Found" page when the user clicks on a pet whose details are not available. To complete this feature, a "Go Home" button re-routes the user to the root, or home, page for a more seamless UX than was the case before. (Previously, the user was directed to a page displaying a 404 Not Found error.)
+- Hosted on Netlify
 
 ## Preview
 
