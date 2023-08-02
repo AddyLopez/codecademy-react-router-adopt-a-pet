@@ -1,6 +1,6 @@
 # React Router Adopt a Pet
 
-View this project here: (https://main--charming-puffpuff-d8ff22.netlify.app/)[https://main--charming-puffpuff-d8ff22.netlify.app/]
+View this project here: [https://main--charming-puffpuff-d8ff22.netlify.app/](https://main--charming-puffpuff-d8ff22.netlify.app/)
 
 ## Description
 
