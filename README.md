@@ -19,11 +19,11 @@ According to the assignment, I was to "add client-side routing to the applicatio
 
 ## Technical Features
 
-- React Router hooks, utility functions, and components: createBrowserRouter, createRoutesFromElements, Route, RouterProvider, useParams, useSearchParams, createSearchParams, useNavigate, Navigate, NavLink, Link, Outlet (and the "to" prop).
+- React Router hooks, utility functions, and components: createBrowserRouter, createRoutesFromElements, Route, RouterProvider, useParams, useSearchParams, createSearchParams, useNavigate, Navigate, NavLink, Link, Outlet (and the "to" prop)
 - Static and dynamic routing, using JSX and URL Parameters
 - Anchor links, which cause the page to refresh, replaced by NavLink and Link components, which do not cause the page to refresh, leading to better performance and improved UX.
-- Active CSS styling added to Links.
-- Implementation of a search feature using Reach Router so that when a user searches for a particular pet, the app redirects them to a page showing all pets whose names match the search query.
+- Active CSS styling added to Links
+- Implementation of a search feature using Reach Router so that when a user searches for a particular pet, the app redirects them to a page showing all pets whose names match the search query
 - Implementation of a feature that redirects the user to a "Pet Details Not Found" page when the user clicks on a pet whose details are not available. To complete this feature, a "Go Home" button re-routes the user to the root, or home, page for a more seamless UX than was the case before. (Previously, the user was directed to a page displaying a 404 Not Found error.)
 
 ## Preview
