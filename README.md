@@ -6,7 +6,7 @@ View this project here: [https://main--charming-puffpuff-d8ff22.netlify.app/](ht
 
 Student project for Codecademy Full-Stack Path.
 
-**_Learning objective_**: To add client-side routing using React Router to an existing pet adoption website and thereby fix the broken features.
+**_Learning objective_**: To add client-side routing using React Router to an existing pet adoption website and thereby fix the broken features. The website is a Single-Page Application (SPA) which functions like a multi-page website; however, the React and React Router frameworks provide solutions to the performance costs typically associated with multi-page websites.
 
 According to the assignment, I was to "add client-side routing to the application using React Router so that:
 
